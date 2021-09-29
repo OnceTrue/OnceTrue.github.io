@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            WooC GitBook
+longtitle:        WooC GitBook
+author:           WooC
+email:            WooC@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  테스트
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://OnceTrue.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/main'
 rss:              RSS
 
 toc:
